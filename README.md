@@ -15,6 +15,7 @@ Offene Punkte stehen in [`docs/kursleitung/offene-punkte.md`](docs/kursleitung/o
 |---|---|---|
 | [`docs/HANDOFF.md`](docs/HANDOFF.md) | Einstieg für eine neue Session oder ein anderes LLM: Kontext, Entscheidungen, nächste Schritte | LLM / Kursleitung |
 | [`docs/kursleitung/kursplan.md`](docs/kursleitung/kursplan.md) | Ablauf der 3 Blöcke im Detail | Kursleitung |
+| [`docs/kursleitung/drehbuch.md`](docs/kursleitung/drehbuch.md) | Folien vs. GitHub vs. To-dos, Journeys (Studentin und Kursleitung), Prozessdiagramme | Kursleitung |
 | [`docs/kursleitung/kommunikationsplan.md`](docs/kursleitung/kommunikationsplan.md) | Welche Information wann und wo an die Teilnehmenden geht | Kursleitung |
 | [`docs/kursleitung/admin-checkliste.md`](docs/kursleitung/admin-checkliste.md) | Vorab-To-dos: Enterprise, GitHub, Netzwerk, Probelauf | Kursleitung |
 | [`docs/kursleitung/offene-punkte.md`](docs/kursleitung/offene-punkte.md) | Offene Fragen, Risiken und technische Befunde | Kursleitung |
