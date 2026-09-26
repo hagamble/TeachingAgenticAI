@@ -8,6 +8,7 @@
 | Datei | Inhalt |
 |---|---|
 | [`kursleitung/kursplan.md`](kursleitung/kursplan.md) | Ablauf der 3 Blöcke mit Theorie, Hands-on und Debrief |
+| [`kursleitung/kommunikationsplan.md`](kursleitung/kommunikationsplan.md) | Welche Information wann und über welchen Kanal an die Teilnehmenden geht |
 | [`kursleitung/admin-checkliste.md`](kursleitung/admin-checkliste.md) | Vorab-To-dos der Kursleitung: Enterprise, GitHub, Netzwerk, Probelauf |
 | [`kursleitung/offene-punkte.md`](kursleitung/offene-punkte.md) | Offene Fragen, Risiken und Befunde (u.a. der YouTube-Test) |
 | [`studierende/setup-hausaufgabe.md`](studierende/setup-hausaufgabe.md) | Setup-Anleitung für Studierende; Platzhalter `[…]` sind noch auszufüllen |
